@@ -1,3 +1,4 @@
+
 function [BW,maskedRGBImage] = createMask(RGB)
 %createMask  Threshold RGB image using auto-generated code from colorThresholder app.
 %  [BW,MASKEDRGBIMAGE] = createMask(RGB) thresholds image RGB using
